@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": "0791a3e9-af43-4003-aaf1-a703b6000051",
+      "name": "Clarissa Coffey",
+      "salary": 39816
+    },
+    {
+      "id": "b262e750-494e-4ec9-b031-e670a2933d00",
+      "name": "Petersen Golden",
+      "salary": 33131
+    },
+    {
+      "id": "074e4e5b-ec5f-4dff-a449-53584e8c260c",
+      "name": "Lenora Boone",
+      "salary": 64619
+    },
+    {
+      "id": "3f5fdd70-0a2a-4e9f-a37a-91bd891e60d4",
+      "name": "Carrie Reed",
+      "salary": 89673
+    },
+    {
+      "id": "d15fdf8e-d1e0-4c7a-9bd6-19d2f9a82123",
+      "name": "Norris Fuller",
+      "salary": 23784
+    },
+    {
+      "id": "aa57d9f3-dfbd-4448-86b2-a39e3daabb4c",
+      "name": "Kenya Joyner",
+      "salary": 23478
+    }
+  ]
+}
