@@ -1,34 +1,40 @@
 {
   "employees": [
-    {
-      "id": "0791a3e9-af43-4003-aaf1-a703b6000051",
-      "name": "Clarissa Coffey",
-      "salary": 39816
+     {
+      "id": "1421d9c9-c204-4552-bc71-3b6f1a0bb60a",
+      "name": "Isabelle Santos",
+      "salary": 33417,
+      "type": "EmployeeWithFixedSalary"
     },
     {
-      "id": "b262e750-494e-4ec9-b031-e670a2933d00",
-      "name": "Petersen Golden",
-      "salary": 33131
+      "id": "a4370459-38de-4054-b561-ec51831bc5aa",
+      "name": "Hattie Hernandez",
+      "salary": 51209,
+      "type": "EmployeeWithFixedSalary"
     },
     {
-      "id": "074e4e5b-ec5f-4dff-a449-53584e8c260c",
-      "name": "Lenora Boone",
-      "salary": 64619
+      "id": "f362a8c7-7403-4efd-811c-7840b5ad3208",
+      "name": "Mcknight Sharp",
+      "salary": 88314,
+      "type": "EmployeeWithFixedSalary"
+    },
+     {
+      "id": "91fe5ec3-0b9f-4c16-9d8a-aa8b38f8f4f2",
+      "name": "Joyce Hull",
+      "salary": 31905,
+      "type": "EmployeeWithHourSalary"
     },
     {
-      "id": "3f5fdd70-0a2a-4e9f-a37a-91bd891e60d4",
-      "name": "Carrie Reed",
-      "salary": 89673
+      "id": "9fe1f6a6-9367-435e-9f5c-5621ec6860e0",
+      "name": "Sharp Newman",
+      "salary": 93256,
+      "type": "EmployeeWithHourSalary"
     },
     {
-      "id": "d15fdf8e-d1e0-4c7a-9bd6-19d2f9a82123",
-      "name": "Norris Fuller",
-      "salary": 23784
-    },
-    {
-      "id": "aa57d9f3-dfbd-4448-86b2-a39e3daabb4c",
-      "name": "Kenya Joyner",
-      "salary": 23478
+      "id": "3633bac9-5e05-4a2b-b106-e97d43d54269",
+      "name": "Phelps Osborne",
+      "salary": 69851,
+      "type": "EmployeeWithHourSalary"
     }
   ]
 }
