@@ -3,37 +3,37 @@
      {
       "id": "1421d9c9-c204-4552-bc71-3b6f1a0bb60a",
       "name": "Isabelle Santos",
-      "salary": 33417,
+      "salary": 30000,
       "type": "EmployeeWithFixedSalary"
     },
     {
       "id": "a4370459-38de-4054-b561-ec51831bc5aa",
       "name": "Hattie Hernandez",
-      "salary": 51209,
+      "salary": 20000,
       "type": "EmployeeWithFixedSalary"
     },
     {
       "id": "f362a8c7-7403-4efd-811c-7840b5ad3208",
       "name": "Mcknight Sharp",
-      "salary": 88314,
+      "salary": 10000,
       "type": "EmployeeWithFixedSalary"
     },
      {
       "id": "91fe5ec3-0b9f-4c16-9d8a-aa8b38f8f4f2",
       "name": "Joyce Hull",
-      "salary": 31905,
+      "salary": 300,
       "type": "EmployeeWithHourSalary"
     },
     {
       "id": "9fe1f6a6-9367-435e-9f5c-5621ec6860e0",
       "name": "Sharp Newman",
-      "salary": 93256,
+      "salary": 200,
       "type": "EmployeeWithHourSalary"
     },
     {
       "id": "3633bac9-5e05-4a2b-b106-e97d43d54269",
       "name": "Phelps Osborne",
-      "salary": 69851,
+      "salary": 100,
       "type": "EmployeeWithHourSalary"
     }
   ]
